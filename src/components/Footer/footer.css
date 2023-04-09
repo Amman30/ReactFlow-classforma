@@ -1,0 +1,16 @@
+.Footer {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text {
+    font-size: 22px;
+    color: #000;
+}
+
+.link {
+    padding: 20px 20px 20px 20px;
+    margin-left: 10px;
+    word-spacing: 10%;
+}

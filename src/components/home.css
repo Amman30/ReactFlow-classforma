@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 20px 20px 20px;
+
+}
+
+
+.name {
+    width: 20%;
+    text-align: center;
+
+}
+
+
+
+.input {
+    width: 30px;
+    margin-right: 130px;
+}
